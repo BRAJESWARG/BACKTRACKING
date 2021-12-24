@@ -1,0 +1,21 @@
+table
+{
+    border: 1px solid black;
+}
+td
+{
+    border: 1px solid black; 
+}
+pre{
+    color: rgb(78, 3, 3); 
+    font-size: 16px;
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+code{
+    color: rgb(78, 3, 3); 
+    font-size: 16px;
+    font-family: verdana, Arial, Helvetica, sans-serif;
+    padding: 2px;
+}
